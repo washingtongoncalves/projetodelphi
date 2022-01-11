@@ -1,0 +1,6 @@
+Dados que estava usando para teste
+
+Email : agioassesoria@gmail.com
+Senha : @g1@2050
+SMTP  : smtp.gmail.com
+Porta : 587
